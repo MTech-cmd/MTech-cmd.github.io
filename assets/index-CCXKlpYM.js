@@ -53,7 +53,7 @@ Error generating stack: `+g.message+`
                         My data engineering skills include Python and Power BI, enabling me to manage and analyze data effectively.
                         I enjoy sharing my knowledge and helping others navigate the ever-evolving tech landscape.
                         I'm always on the lookout for new challenges and opportunities to collaborate.
-                        If you have any questions or if you're interested in working together, feel free to reach out!`,EXPERIENCES=[{year:"2024 - Present",role:"Computer Specialist",company:"Studentaanhuis",description:`Provided technical support and troubleshooting services to clients with a focus on software issues.
+                        If you have any questions or if you're interested in working together, feel free to reach out!`,EXPERIENCES=[{year:"April 2024 - August 2024",role:"Computer Specialist",company:"Studentaanhuis",description:`Provided technical support and troubleshooting services to clients with a focus on software issues.
                     Installed and configured operating systems, software applications, and peripherals.
                     Educated clients on best practices for data security and privacy.`,technologies:["Windows","MacOS","Linux","Microsoft Office","UNIX"]}],PROJECTS=[{title:"SquishFactory",image:squishfactory,logo:mymellow,description:`SquishFactory is a web application that allows users to create, customize, and order custom squishmallows.
                     Users can choose from a variety of designs, colors, and sizes to create their own unique squishmallow.
